@@ -1,0 +1,79 @@
+.titulo1{
+    background-color: rgb(255, 94, 0);
+    font-size: 5rem;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    font-family: 'Bebas Neue', cursive;
+}
+hr{
+    color: white;
+}
+
+.titulo2{
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    font-family: 'Bebas Neue', cursive;
+}
+.pag1{
+    background-image: url(musica.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+}
+.lista{
+    font-size: 2rem;
+    color: rgb(255, 136, 0);
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.button-1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(236, 212, 0);
+    font-size: 30px;
+    font-stretch: ;
+}
+.gif{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+.pag2{
+    background-image: url(musica2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.tabla{
+    border-collapse: collapse;
+}
+.tabla td{
+    border: 1px solid;
+    text-align: center;
+}
+.tabla th{
+    background-color: rgb(255, 102, 0);
+    color: black;
+}
+.tabla td:hover{
+    background-color: rgb(255, 136, 0);
+    color: rgb(0, 0, 0);
+}
+tr{
+    color: white;
+    font-size: 2rem;
+}
+th{
+    color: white;
+    font-size: 3rem;
+    font-family: 'Bebas Neue', cursive;
+}
+caption{
+    color: rgb(252, 113, 0);
+    font-size: 4rem;
+    font-family: 'Bebas Neue', cursive;
+}
